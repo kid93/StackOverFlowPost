@@ -12,7 +12,7 @@
 
         public void DownVote()
         {
-            _downVote -= 1; ;
+            _downVote -= 1;
         }
 
     }
